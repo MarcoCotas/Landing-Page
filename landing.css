@@ -8,7 +8,7 @@
 
  .First {   
     background-size: content;
-    background-image:url("/headerImg.jpg");
+    background-image:url("/resources/headerImg.jpg");
     display:flex;
     color:aliceblue;
     flex-direction: column;
